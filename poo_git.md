@@ -9,6 +9,8 @@
     git commit -m "Listas e aulas"
     git status
     git push
+    git config --global user.name ""
+    git config --global user.email ""
 
 ### Configurar usuário
     - Comandos
